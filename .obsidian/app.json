@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "data"
+  "newFileFolderPath": "data",
+  "alwaysUpdateLinks": true
 }

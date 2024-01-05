@@ -16,30 +16,6 @@
             }
           },
           {
-            "id": "d08d537bf976233f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/0. Computer networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d251ea88fb611a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/0. Computer networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0aab7259573b096c",
             "type": "leaf",
             "state": {
@@ -50,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc28d7521ba1567f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/0.2 network topology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/0. Computer networks.md",
+                "file": "data/0.2 network topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/0. Computer networks.md",
+                "file": "data/0.2 network topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/0. Computer networks.md"
+                "file": "data/0.2 network topology.md"
               }
             }
           }
@@ -179,15 +167,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0aab7259573b096c",
+  "active": "cc28d7521ba1567f",
   "lastOpenFiles": [
-    "data/1.  11.md",
-    "data/2.md",
+    "Pasted image 20240105143031.png",
+    "data/0.2.2 ribs.md",
+    "data/0.2 network topology.md",
+    "data/0.2.1 peaks.md",
+    "data/0.1.2 transmission technologies.md",
+    "data/1.1.2.1 Broadcast networks.md",
+    "data/1.1.2.2 Point - point.md",
+    "data/0.1 Network classifications.md",
     "data/0. Computer networks.md",
-    "data/test.md",
+    "data/0.1.3.5 Network interconnection.md",
+    "images/Pasted image 20240105123521.png",
+    "data/0.1.1 switching type.md",
+    "data/0.1.1.2 packet switching.md",
+    "data/0.1.1.1 circuit switching.md",
+    "data/0.1.1 switching type (тип коммутации).md",
+    "images/Pasted image 20240105123021.png",
+    "data/Network classifications.md",
+    "data/0.1.3.3 municipal network.md",
+    "images/Pasted image 20240105122847.png",
+    "data/0.1.3 length.md",
+    "images/Pasted image 20240104205757.png",
+    "images/Pasted image 20231223113215.png",
+    "images/Pasted image 20231223113133.png",
+    "images/Pasted image 20231223113041.png",
+    "images/Untitled.md",
+    "data/0.1.3.4 global network.md",
+    "data/0.1.3.2 local network.md",
+    "data/0.1.3.1 personal area network.md",
+    "images/Pasted image 20240104205748.png",
+    "images/Pasted image 20240104205645.png",
+    "images/Pasted image 20240104205606.png",
+    "data/1.1.2.2 Точка-точка.md",
+    "data/1.2.1 Широковещательные сети.md",
+    "data/1.2.2 Точка - точка.md",
+    "data/тип коммутации.md",
+    "data/технологии передачи.md",
+    "Untitled",
     "images",
     "data",
-    "2023-12-22.md",
     "Untitled.canvas"
   ]
 }
