@@ -11,12 +11,8 @@
             "id": "74788571ef6bcbf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/0.2 network topology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/0.2 network topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/0.2 network topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "data/0.2 network topology.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "74788571ef6bcbf1",
   "lastOpenFiles": [
-    "data/0.2.4 mesh topology.md",
     "data/0.2 network topology.md",
+    "data/0.2.4 mesh topology.md",
     "data/0.2.6 ring topology.md",
     "data/0.2.7 wood topology.md",
     "data/0.2.5 star topology.md",
