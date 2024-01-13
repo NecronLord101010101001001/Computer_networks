@@ -11,8 +11,12 @@
             "id": "74788571ef6bcbf1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data/0.3.1.3.1.1 RFC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data/0.3.1.3.1.1 RFC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "data/0.3.1.3.1.1 RFC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "data/0.3.1.3.1.1 RFC.md"
+              }
             }
           }
         ]
@@ -140,6 +148,16 @@
   },
   "active": "74788571ef6bcbf1",
   "lastOpenFiles": [
+    "data/0.3.1.3.1 Internet Engeering Task Force, IETF.md",
+    "data/0.3.1.3 internet architecture council.md",
+    "data/0.3.1.2 Institute of Electronics and Electrical Engineers(IEEE).md",
+    "data/0.3.1 types of standards.md",
+    "data/0.3 Computer network standards.md",
+    "tcp/ip.md",
+    "tcp",
+    "data/0.3.1.4 W3C consortium.md",
+    "data/0.3.1.3.1.1 RFC.md",
+    "data/0.3.1.1 international standart organization(ISO).md",
     "Новый текстовый документ.txt",
     "WIFI.md",
     "data/0.2 network topology.md",
@@ -168,16 +186,8 @@
     "images/Pasted image 20240109215324.png",
     "data/physical.md",
     "data/logical.md",
-    "data/0.2.8 Common bus topology.md",
     "Computer_networks/images",
     "Computer_networks/desktop.ini",
-    "Computer_networks/data/wifi hotspot.md",
-    "Computer_networks/data/router.md",
-    "Computer_networks/data/physical.md",
-    "Computer_networks/data/network switch.md",
-    "Computer_networks/data/logical.md",
-    "Computer_networks/data/hub.md",
-    "Computer_networks/data/1.1.2.2 Point - point.md",
     "Computer_networks/data",
     "Computer_networks",
     "Untitled.canvas",
