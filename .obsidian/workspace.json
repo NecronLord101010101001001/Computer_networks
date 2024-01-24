@@ -11,8 +11,12 @@
             "id": "74788571ef6bcbf1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data/0.4.1 Decomposition Levels Pattern.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data/0.4.1 Decomposition Levels Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "data/0.4.1 Decomposition Levels Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "data/0.4.1 Decomposition Levels Pattern.md"
+              }
             }
           }
         ]
@@ -140,47 +148,49 @@
   },
   "active": "74788571ef6bcbf1",
   "lastOpenFiles": [
-    "Новый текстовый документ.txt",
+    "data/1.1.2.1 Broadcast networks.md",
+    "data/0.4 Basics of organizing computer networks.md",
+    "data/0.4.1 Decomposition Levels Pattern.md",
+    "data/Committee 802.15.md",
+    "data/Committee 802.11.md",
+    "data/Committee 802.3.md",
+    "среде передачи данных.md",
+    "0.4.2.3 protocol.md",
+    "Pasted image 20240123215114.png",
+    "0.4.2 Basic concepts of computer networks.md",
+    "0.4.2.2 Interface.md",
+    "Pasted image 20240123215017.png",
+    "0.4.2.1 Service.md",
+    "Pasted image 20240123214720.png",
+    "data/adapter.md",
+    "data/tcp/ip.md",
+    "data/Committee 802.16.md",
     "WIFI.md",
-    "data/0.2 network topology.md",
-    "data/0.2.4 mesh topology.md",
-    "data/0.2.6 ring topology.md",
-    "data/0.2.7 wood topology.md",
-    "data/0.2.5 star topology.md",
-    "data/0.1.3.2 local network.md",
-    "data/0.1.3.3 municipal network.md",
-    "data/0.1.3.4 global network.md",
-    "data/0.1.3.5 Network interconnection.md",
-    "data/0.2.3 topology - fully connected.md",
-    "data/0.2.5 ring topology.md",
-    "data/0.2.4 star topology.md",
-    "PIDAR POOP.md",
-    "data/0.1.2 transmission technologies.md",
+    "Untitled.canvas",
+    "data/0. Computer networks.md",
+    "images/Pasted image 20240123202144.png",
+    "images/Pasted image 20240123201721.png",
+    "data/0.3.1.4 W3C consortium.md",
+    "data/RFC.md",
+    "data/tcp/2.md",
+    "data/tcp/1.md",
+    "data/0.3.1.3.1.1 RFC.md",
+    "data/0.3.1.3 internet architecture council.md",
+    "data/0.3.1 types of standards.md",
+    "data/0.3.1.2 Institute of Electronics and Electrical Engineers(IEEE).md",
+    "data/0.3 Computer network standards.md",
+    "data/0.3.1.1 international standart organization(ISO).md",
+    "images/Pasted image 20240111175208.png",
+    "images/Pasted image 20240111173552.png",
+    "images/Pasted image 20240111173249.png",
+    "images/Pasted image 20240111172938.png",
+    "data/tcp",
+    "Новый текстовый документ.txt",
     "images/Pasted image 20240109220800.png",
-    "images/Pasted image 20240109220531.png",
-    "images/Pasted image 20240109220351.png",
-    "images/Pasted image 20240109220307.png",
-    "images/Pasted image 20240109220215.png",
-    "images/Pasted image 20240109215931.png",
-    "images/Pasted image 20240109215821.png",
-    "images/Pasted image 20240109215528.png",
-    "images/Pasted image 20240109215424.png",
-    "images/Pasted image 20240109215324.png",
-    "data/physical.md",
-    "data/logical.md",
-    "data/0.2.8 Common bus topology.md",
     "Computer_networks/images",
     "Computer_networks/desktop.ini",
-    "Computer_networks/data/wifi hotspot.md",
-    "Computer_networks/data/router.md",
-    "Computer_networks/data/physical.md",
-    "Computer_networks/data/network switch.md",
-    "Computer_networks/data/logical.md",
-    "Computer_networks/data/hub.md",
-    "Computer_networks/data/1.1.2.2 Point - point.md",
     "Computer_networks/data",
     "Computer_networks",
-    "Untitled.canvas",
     "images",
     "data",
     "desktop.ini"

@@ -1,0 +1,1 @@
+В таблице приведён список стандартов группы [IEEE 802](https://ru.wikipedia.org/wiki/IEEE_802 "IEEE 802") подгруппы **802.3**, являющихся основой семейства технологий пакетной передачи данных [Ethernet](https://ru.wikipedia.org/wiki/Ethernet "Ethernet").
