@@ -11,11 +11,9 @@
             "id": "74788571ef6bcbf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "data/0.4.1 Decomposition Levels Pattern.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20240123215114.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/0.4.1 Decomposition Levels Pattern.md",
+                "file": "images/Pasted image 20240123215114.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/0.4.1 Decomposition Levels Pattern.md",
+                "file": "images/Pasted image 20240123215114.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/0.4.1 Decomposition Levels Pattern.md"
+                "file": "images/Pasted image 20240123215114.png"
               }
             }
           }
@@ -146,25 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74788571ef6bcbf1",
+  "active": "a0ce709b7a8125be",
   "lastOpenFiles": [
+    "data/среде передачи данных.md",
+    "data/0.4.1 Decomposition Levels Pattern.md",
     "git",
     "tcp/ip.md",
     "tcp",
     "data/1.1.2.1 Broadcast networks.md",
     "data/0.4 Basics of organizing computer networks.md",
-    "data/0.4.1 Decomposition Levels Pattern.md",
     "data/Committee 802.15.md",
     "data/Committee 802.11.md",
     "data/Committee 802.3.md",
-    "среде передачи данных.md",
-    "0.4.2.3 protocol.md",
-    "Pasted image 20240123215114.png",
-    "0.4.2 Basic concepts of computer networks.md",
-    "0.4.2.2 Interface.md",
-    "Pasted image 20240123215017.png",
-    "0.4.2.1 Service.md",
-    "Pasted image 20240123214720.png",
+    "data/0.4.2.3 protocol.md",
+    "images/Pasted image 20240123215114.png",
+    "data/0.4.2 Basic concepts of computer networks.md",
+    "data/0.4.2.2 Interface.md",
+    "images/Pasted image 20240123215017.png",
+    "data/0.4.2.1 Service.md",
+    "images/Pasted image 20240123214720.png",
     "data/adapter.md",
     "data/tcp/ip.md",
     "data/Committee 802.16.md",
@@ -193,7 +191,6 @@
     "Computer_networks/data",
     "Computer_networks",
     "images",
-    "data",
-    "desktop.ini"
+    "data"
   ]
 }
